@@ -136,7 +136,6 @@ class UserController {
             </tr>
         `;
 
-        
 
         this.tableEl.appendChild(tr);
 
