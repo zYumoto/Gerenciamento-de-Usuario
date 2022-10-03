@@ -138,6 +138,5 @@ class UserController {
 
         this.tableEl.appendChild(tr);
 
-        
     }
 }
